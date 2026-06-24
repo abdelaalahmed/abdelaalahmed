@@ -24,7 +24,7 @@ I am a passionate **Data Engineer**, **Oracle Developer**, and **Database Admini
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 Profile Analytics
-**Profile Views:** <img src="https://profile-counter.glitch.me/abdelaal-abdelnaim-369b4b359/count.svg" alt="Visitor Count" valign="middle" />
+**Profile Views:** <img src="https://profile-counter.glitch.me/abdelaalahmed/count.svg" alt="Visitor Count" valign="middle" />
 
 ---
 
@@ -38,14 +38,14 @@ I am a passionate **Data Engineer**, **Oracle Developer**, and **Database Admini
 
 ## 📕 Top Projects
 
-### 🪙 [Gold Market & Inflation Analytics Platform](https://github.com/abdelaal-abdelnaim-369b4b359/Gold-Market-Data-Pipeline)
+### 🪙 [Gold Market & Inflation Analytics Platform](https://github.com/abdelaalahmed/Gold-Market-Data-Pipeline)
 An end-to-end cloud data pipeline engineered on **Azure** and **Databricks** to ingest, process, and analyze gold market pricing against inflation indicators.
 * **Architecture:** Built using the **Medallion Architecture** (Bronze ──> Silver ──> Gold).
 * **Processing & Big Data:** Ingested raw JSON data via Python, executed feature engineering with **PySpark** to calculate volatility (`Daily_Spread`), and applied **Spark SQL** for final staging.
 * **Modeling:** Designed a **Star Schema** with **3 Dimension Tables** (`dim_gold_date`, `dim_gold_inflation`, `dim_gold_market_status`) surrounding a central Fact table.
 * **BI & Serving:** Connected **Power BI via Import Mode** to maximize dashboard performance and minimize cloud computing costs.
 
-### ✈️ [AeroDB: Aviation & Flight Delay Infrastructure](https://github.com/abdelaal-abdelnaim-369b4b359/AeroDB)
+### ✈️ [AeroDB: Aviation & Flight Delay Infrastructure](https://github.com/abdelaalahmed/AeroDB)
 A scalable big data infrastructure project designed to handle high-velocity aviation logs and weather conditions.
 * **Architecture:** Implemented a **Galaxy Schema** linking multiple fact tables (`FACT_FLIGHT_DELAY`) with shared dimensions like `DIM_AIRPORT`.
 * **Storage Strategy:** Utilized **Snowflake** for historical data warehousing and **TimescaleDB** for time-series weather streams.
@@ -54,10 +54,11 @@ A scalable big data infrastructure project designed to handle high-velocity avia
 
 ## 📈 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelaal-abdelnaim-369b4b359&show_icons=true&theme=tokyonight" alt="Abdelaal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelaalahmed&show_icons=true&theme=tokyonight" alt="Abdelaal's GitHub Stats" />
 </p>
 
 📬 **Let's Connect!** 
 
 * **LinkedIn:** [linkedin.com/in/abdelaal-abdelnaim-369b4b359](https://www.linkedin.com/in/abdelaal-abdelnaim-369b4b359)
-* **Email:** [abdelaalabdelnaim@gmail.com](mailto:abdelaalabdelnaim@gmail.com)
+* **Primary Email (Inquiries):** [abdelaalabdelnaim@gmail.com](mailto:abdelaalabdelnaim@gmail.com)
+* **GitHub Email:** [abdelaalahmed2026@gmail.com](mailto:abdelaalahmed2026@gmail.com)
