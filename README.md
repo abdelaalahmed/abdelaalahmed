@@ -1,4 +1,4 @@
-# Hi there, I'm Abdelaal! 👋
+# Hi there, I'm Abdelaal Ahmed! 👋
 ### Data Engineer & Oracle Specialist | Big Data & Cloud Solutions
 
 I am a passionate **Data Engineer**, **Oracle Developer**, and **Database Administrator (DBA)**. My expertise lies in building robust cloud data pipelines, scaling Big Data architectures, and managing high-performance relational database systems. 
@@ -27,33 +27,34 @@ I am a passionate **Data Engineer**, **Oracle Developer**, and **Database Admini
 
 ## 💼 Core Expertise
 
-*   **Oracle Development & Administration:** Writing complex PL/SQL packages, performance tuning, indexing, backup/recovery strategies, and user access management.
-*   **Big Data & Cloud Pipelines:** Building robust end-to-end pipelines using the **Medallion Architecture**, optimizing **PySpark** jobs, and managing data lakes (**Delta Lake**).
-*   **Dimensional Modeling:** Designing high-performance schemas (**Star & Galaxy Schemas**) optimized for enterprise data warehousing and analytics.
+* **Oracle Development & Administration:** Writing complex PL/SQL packages, performance tuning, indexing, backup/recovery strategies, and user access management.
+* **Big Data & Cloud Pipelines:** Building robust end-to-end pipelines using the **Medallion Architecture**, optimizing **PySpark** jobs, and managing data lakes (**Delta Lake**).
+* **Dimensional Modeling:** Designing high-performance schemas (**Star & Galaxy Schemas**) optimized for enterprise data warehousing and analytics.
 
 ---
 
 ## 📕 Top Projects
 
-### 🪙 [Gold Market & Inflation Analytics Platform](https://github.com/YOUR_USERNAME/Gold-Market-Data-Pipeline)
+### 🪙 [Gold Market & Inflation Analytics Platform](https://github.com/abdelaal-abdelnaim-369b4b359/Gold-Market-Data-Pipeline)
 An end-to-end cloud data pipeline engineered on **Azure** and **Databricks** to ingest, process, and analyze gold market pricing against inflation indicators.
-*   **Architecture:** Built using the **Medallion Architecture** (Bronze ──> Silver ──> Gold).
-*   **Processing & Big Data:** Ingested raw JSON data via Python, executed feature engineering with **PySpark** to calculate volatility (`Daily_Spread`), and applied **Spark SQL** for final staging.
-*   **Modeling:** Designed a **Star Schema** with **3 Dimension Tables** (`dim_gold_date`, `dim_gold_inflation`, `dim_gold_market_status`) surrounding a central Fact table.
-*   **BI & Serving:** Connected **Power BI via Import Mode** to maximize dashboard performance and minimize cloud computing costs.
+* **Architecture:** Built using the **Medallion Architecture** (Bronze ──> Silver ──> Gold).
+* **Processing & Big Data:** Ingested raw JSON data via Python, executed feature engineering with **PySpark** to calculate volatility (`Daily_Spread`), and applied **Spark SQL** for final staging.
+* **Modeling:** Designed a **Star Schema** with **3 Dimension Tables** (`dim_gold_date`, `dim_gold_inflation`, `dim_gold_market_status`) surrounding a central Fact table.
+* **BI & Serving:** Connected **Power BI via Import Mode** to maximize dashboard performance and minimize cloud computing costs.
 
-### ✈️ [AeroDB: Aviation & Flight Delay Infrastructure](https://github.com/YOUR_USERNAME/AeroDB)
+### ✈️ [AeroDB: Aviation & Flight Delay Infrastructure](https://github.com/abdelaal-abdelnaim-369b4b359/AeroDB)
 A scalable big data infrastructure project designed to handle high-velocity aviation logs and weather conditions.
-*   **Architecture:** Implemented a **Galaxy Schema** linking multiple fact tables (`FACT_FLIGHT_DELAY`) with shared dimensions like `DIM_AIRPORT`.
-*   **Storage Strategy:** Utilized **Snowflake** for historical data warehousing and **TimescaleDB** for time-series weather streams.
+* **Architecture:** Implemented a **Galaxy Schema** linking multiple fact tables (`FACT_FLIGHT_DELAY`) with shared dimensions like `DIM_AIRPORT`.
+* **Storage Strategy:** Utilized **Snowflake** for historical data warehousing and **TimescaleDB** for time-series weather streams.
 
 ---
 
 ## 📈 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Abdelaal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelaal-abdelnaim-369b4b359&show_icons=true&theme=tokyonight" alt="Abdelaal's GitHub Stats" />
 </p>
 
 📬 **Let's Connect!** 
-*   [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) 
-*   [Email](mailto:your.email@example.com)
+
+* [LinkedIn](https://www.linkedin.com/in/abdelaal-abdelnaim-369b4b359) 
+* [Email](mailto:abdelaalabdelnaim@gmail.com)
