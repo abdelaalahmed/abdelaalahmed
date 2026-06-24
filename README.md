@@ -1,35 +1,43 @@
-<p align="center">
-    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
-  </p>
+# Hi there, I'm Abdelaal! 👋
+### Data Engineer | Specializing in Modern Data Stack & Cloud Architectures
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
+I am a passionate Data Engineer focused on building robust, scalable, and cost-optimized end-to-end data pipelines. I love transforming raw data into actionable insights using cloud technologies and dimensional modeling.
 
-<details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+---
 
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-    <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
-    <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
-    <a href="https://github.com/Rapptz/discord.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
-    <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
-    <a href="https://github.com/scrapinghub/dateparser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
-    <a href="https://github.com/python-babel/babel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=python-babel&repo=babel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
-    <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nextcord"></a>
-    <a href="https://github.com/PyCQA/autoflake"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PyCQA&repo=autoflake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
-  </p>
+## 📕 Top Projects I've Contributed To
 
-  <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-</details>
+### 🪙 [Gold Market & Inflation Analytics Platform](https://github.com/YOUR_USERNAME/Gold-Market-Data-Pipeline)
+An end-to-end cloud data pipeline engineered on **Azure** and **Databricks** to ingest, process, and analyze historical and real-time gold market pricing against economic inflation indicators.
+*   **Architecture:** Built using the **Medallion Architecture** (Bronze ──> Silver ──> Gold) to ensure data reliability and clean transformations.
+*   **Data Processing:** Ingested raw JSON data using Python, performed advanced feature engineering (Daily Spread/Volatility calculation) via **PySpark**, and structured the final layers using **Spark SQL**.
+*   **Dimensional Modeling:** Modeled a high-performance **Star Schema** consisting of **3 Dimension Tables** (`dim_gold_date`, `dim_gold_inflation`, `dim_gold_market_status`) surrounding a central Fact table.
+*   **BI & Serving:** Connected **Power BI via Import Mode** to achieve maximum dashboard performance and minimize runtime cloud compute costs.
 
-<details> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+---
 
-  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
+### ✈️ [AeroDB: Aviation & Flight Delay Infrastructure](https://github.com/YOUR_USERNAME/AeroDB)
+A scalable data infrastructure project designed to handle high-velocity aviation data, flight delays, and live weather conditions.
+*   **Architecture:** Implemented a **Galaxy Schema** to link multiple complex fact tables (`FACT_FLIGHT_DELAY`) with shared dimensions like `DIM_AIRPORT`.
+*   **Streaming & Storage:** Designed a hybrid storage strategy utilizing **Snowflake** for historical data warehousing and **TimescaleDB** for time-series weather logs, with data ingestion powered by the OpenSky API.
+
+---
+
+## 🛠️ Tech Stack & Toolkit
+
+*   **Cloud Platforms:** Microsoft Azure (Synapse, Databricks, Storage Accounts)
+*   **Data Warehouses & Lakes:** Delta Lake, Snowflake, SQL Server (SSMS)
+*   **Data Processing & Transformation:** PySpark, Spark SQL, Python, dbt
+*   **BI & Analytics:** Power BI (Import & DirectQuery optimization)
+*   **Version Control:** GitHub
+
+---
+
+## 📈 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Abdelaal's GitHub Stats" />
+</p>
+
+📬 **Let's Connect!** 
+*   [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) 
+*   [Email](mailto:your.email@example.com)
