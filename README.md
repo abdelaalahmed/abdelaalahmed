@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://profile-counter.glitch.me/abdelaal-abdelnaim-369b4b359/count.svg" alt="Visitor Count" />
+</p>
+
 # Hi there, I'm Abdelaal Ahmed! 👋
 ### Data Engineer & Oracle Specialist | Big Data & Cloud Solutions
 
@@ -56,5 +60,5 @@ A scalable big data infrastructure project designed to handle high-velocity avia
 
 📬 **Let's Connect!** 
 
-* [LinkedIn](https://www.linkedin.com/in/abdelaal-abdelnaim-369b4b359) 
-* [Email](mailto:abdelaalabdelnaim@gmail.com)
+* **LinkedIn:** [linkedin.com/in/abdelaal-abdelnaim-369b4b359](https://www.linkedin.com/in/abdelaal-abdelnaim-369b4b359)
+* **Email:** [abdelaalabdelnaim@gmail.com](mailto:abdelaalabdelnaim@gmail.com)
