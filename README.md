@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://profile-counter.glitch.me/abdelaal-abdelnaim-369b4b359/count.svg" alt="Visitor Count" />
-</p>
-
 # Hi there, I'm Abdelaal Ahmed! 👋
 ### Data Engineer & Oracle Specialist | Big Data & Cloud Solutions
 
@@ -26,6 +22,9 @@ I am a passionate **Data Engineer**, **Oracle Developer**, and **Database Admini
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 Profile Analytics
+**Profile Views:** <img src="https://profile-counter.glitch.me/abdelaal-abdelnaim-369b4b359/count.svg" alt="Visitor Count" valign="middle" />
 
 ---
 
